@@ -1,0 +1,15 @@
+
+.saffron{
+    background-color: orange;
+    height: 250px;
+}
+
+.circle{
+    position: relative;
+    left: 600px;
+}
+
+.green{
+    background-color: green;
+    height: 250px;
+}
